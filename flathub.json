@@ -1,3 +1,5 @@
 {
+  "end-of-life": "org.small_tech.Gnomit is no longer maintained, please install re.sonny.Commit instead",
+  "end-of-life-rebase": "re.sonny.Commit",
   "publish-delay-hours": 0
 }
